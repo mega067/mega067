@@ -18,7 +18,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Algorit-Hack</h3>
+<h3 align="center">Algorit-Hack (ROOT)</h3>
 <div align="center">
 <a href=""https://github.com/mega067/algorit_hack" target="_blank"><img src="https://raw.githubusercontent.com/mega067/mega067/REPO/mega067_log.png" width="400" alt="Curso básico android"></a>
 <p>
