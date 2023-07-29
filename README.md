@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 
 </p>
-<p>Erramienta de cibersefuridad par hacer pruebas de conexion a redes a base de generasion de contraseñas de forma algoritmica para los modems Ubee y Arris. Con un telefono con acceso ROOT</p>
+<p>Erramienta de ciberseguridad par hacer pruebas de conexion a redes a base de generasion de contraseñas de forma algoritmica para los modems Ubee y Arris. Con un telefono con acceso ROOT</p>
 </div>
                                                                                       
 </td>
